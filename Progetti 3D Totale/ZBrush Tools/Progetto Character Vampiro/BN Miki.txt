@@ -1,0 +1,20 @@
+Character
+Vincoli:
+-No armature troppo complesse o abbigliamenti troppo strani o complessi
+-Character solo umanoide, non alieno o animale.
+
+Consigli:
+-Fare domande al perché di tutto ciò che riguarda il personaggio, così da dare una sua identità, un suo perché, dove sta, che fa etc.
+-Farsi un gruppo di artisti come reference da cui attingere, per migliorare nell'uso dei programmi.
+Keos Masons. Michael Weisheim Beresin.
+
+Come cambiare l'interfaccia.
+Canvas: Document-Back-Cambia il background, se tenuto premuto, cambia colori su tutte le sfumature.
+Consigli sul colore: Grigio medio scuro.
+Il Range toglie la sfumatura sotto.
+Save as startup Doc, fa partire ZBrush come lo abbiamo impostato, ogni volta.
+
+Materiali da usare su ZBrush: SkinShade4, MatCap Gray, Blinn,
+Preferences, Enable Customize, Ctrl+Alt+ trascino e sposto la roba sul UI.
+Per i pennelli, per metterli sulla barra dove si vuole, vanno presi dal menù brush.
+Per rimpicciolire le icone si va su Preferences-Interface-Wide Button.
