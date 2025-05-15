@@ -1,6 +1,6 @@
 //Maya ASCII 2025ff03 scene
 //Name: Casa_001.ma
-//Last modified: Thu, May 15, 2025 05:05:05 PM
+//Last modified: Thu, May 15, 2025 06:12:52 PM
 //Codeset: 1252
 requires maya "2025ff03";
 requires -nodeType "aiOptions" -nodeType "aiAOVDriver" -nodeType "aiAOVFilter" -nodeType "aiImagerDenoiserOidn"
@@ -11,12 +11,12 @@ fileInfo "product" "Maya 2025";
 fileInfo "version" "2025";
 fileInfo "cutIdentifier" "202409190603-cbdc5a7e54";
 fileInfo "osv" "Windows 11 Home v2009 (Build: 26100)";
-fileInfo "UUID" "4A60A481-4AB2-A9F1-7581-5B97E85F54E8";
+fileInfo "UUID" "BE6C957A-4C91-A238-6DF4-78A080FBA2CC";
 createNode transform -s -n "persp";
 	rename -uid "BF727978-472E-F61A-2374-7FA2DCFF3EE0";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 790.65883254091443 -250.44262884045111 2059.3965205002196 ;
-	setAttr ".r" -type "double3" 6.2616472572271205 -3217.8000000016445 -2.1470027328920432e-16 ;
+	setAttr ".t" -type "double3" 309.41120674128371 71.173126091013302 1975.1615612490848 ;
+	setAttr ".r" -type "double3" 0.86164725722730595 -3241.0000000016316 -1.2425934254446358e-17 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "86360AF0-489E-5B67-CE10-BAB65C44BE7F";
 	setAttr -k off ".v" no;
