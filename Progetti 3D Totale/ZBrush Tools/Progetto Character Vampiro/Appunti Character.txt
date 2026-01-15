@@ -1,6 +1,0 @@
-T pose o A pose, leggermente divaricato, da retopologizzare.
-Imparare ad usare i polygroup, e dividere correttamente il modello in essi.
-Fare gli occhi separati, con Macro, append eyes.
-Usare i layers, in basso a destra, per tenere nota del livello di dettaglio usato sul character.
-Dividere i layers per braccia, busto, gambe.
-Per ottimizzare, dividire in polygroups, e poi separare i pezzi mascherandoli e staccandoli dal corpo principale, tanto poi va mergiato.
